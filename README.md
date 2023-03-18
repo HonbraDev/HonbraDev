@@ -5,7 +5,6 @@ I have decided to make my profile private since GitHub doesn't give me the optio
 #### Pinned repositories
 
 - [skolaonline-rs](https://github.com/HonbraDev/skolaonline-rs) - A collection of Rust crates for interacting with the Czech edutech provider Škola OnLine
-- [honbra-web](https://github.com/HonbraDev/honbra-web) - My personal website with React.js shitposts - currently being rewritten
 
 #### Pinned organizations
 
