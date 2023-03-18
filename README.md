@@ -9,7 +9,7 @@ I have decided to make my profile private since GitHub doesn't give me the optio
 
 #### Pinned organizations
 
-- [Goobers, Inc.](https://github.com/GoobersInc) - Me and a couple of others making silly Minecraft things using Rust, mostly private stuff for now
+- [Goobers, Inc.](https://github.com/GoobersInc) - Me and a couple of others making silly Minecraft things, mostly private stuff for now
 
 ---
 
